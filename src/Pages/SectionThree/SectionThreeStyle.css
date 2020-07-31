@@ -1,0 +1,34 @@
+/* SECTION 2 */
+
+.section3 {
+	padding: 50px;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	margin: 0 auto;
+	max-width: 1240px;
+}
+
+.section3-image {
+	background-image: url(SectionThree.jpg);
+	background-size: cover;
+	background-position: no-repeat;
+	background-position: center;
+	height: 600px;
+	width: 600px;
+}
+
+.section3-text-box {
+	margin-top: 0;
+	margin-right: 103px;
+	margin-bottom: 0px;
+	margin-left: 103px;
+	max-width: 394px;
+	padding: 0;
+}
+
+.section3-text {
+	margin: 0 auto;
+	max-width: 394px;
+	padding: 0;
+}

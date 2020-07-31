@@ -1,0 +1,16 @@
+.tertiary-button {
+	display: inline-block;
+	text-align: center;
+	border-radius: 0.25rem;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.tertiary-button-style {
+	font-size: 0.75rem;
+	font-weight: bold;
+	text-transform: uppercase;
+	line-height: 1.67;
+	letter-spacing: 1px;
+	padding: 14px 18px 14px 18px;
+}
